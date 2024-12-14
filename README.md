@@ -92,7 +92,7 @@ No `LICENSE` is Issued.
 
 ## Contact
 
-For questions or suggestions, please contact (Email)[karthikkarthikpwork@gmail.com].
+For questions or suggestions, please contact karthikkarthikpwork@gmail.com.
 
 ---
 
